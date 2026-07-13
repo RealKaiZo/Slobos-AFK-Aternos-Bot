@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dirtio.aternos.me",
-    "port": 25858,
+    "ip": "3x3SMP.aternos.me",
+    "port": 38090,
     "version": "",
     "try-creative": false
   },
